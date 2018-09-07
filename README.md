@@ -1,4 +1,9 @@
 [![Build Status](https://travis-ci.com/danielsss/eslint-config-daniels.svg?branch=master)](https://travis-ci.com/danielsss/eslint-config-daniels)
+[![GitHub issues](https://img.shields.io/github/issues/danielsss/eslint-config-daniels.svg)](https://github.com/danielsss/eslint-config-daniels/issues)
+[![GitHub stars](https://img.shields.io/github/stars/danielsss/eslint-config-daniels.svg)](https://github.com/danielsss/eslint-config-daniels/stargazers)
+[![GitHub license](https://img.shields.io/github/license/danielsss/eslint-config-daniels.svg)](https://github.com/danielsss/eslint-config-daniels/blob/master/LICENSE)
+
+
 # eslint-config-daniels
 > ESLint shareable config for everyone
 
