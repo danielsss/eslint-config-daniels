@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-daniels",
+  "version": "1.0.0",
+  "description": "a personal eslint config",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielsss/eslint-config-daniels.git"
+  },
+  "author": "danielsss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielsss/eslint-config-daniels/issues"
+  },
+  "homepage": "https://github.com/danielsss/eslint-config-daniels#readme"
+}
