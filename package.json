@@ -4,7 +4,7 @@
   "description": "a personal eslint config",
   "main": "lib/index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "node test/index.test.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/danielsss/eslint-config-daniels/issues"
   },
-  "homepage": "https://github.com/danielsss/eslint-config-daniels#readme"
+  "homepage": "https://github.com/danielsss/eslint-config-daniels#readme",
+  "dependencies": {
+    "eslint": "^5.5.0"
+  }
 }

@@ -31,6 +31,17 @@ To use `daniels` style in conjunction with ESLint's recommended rule set, extend
 }
 ```
 
+### Using the overrites config
+
+```js
+{
+  "extends": ["eslint:recommended", "daniels"],
+  "rules": {}
+  "overrites": [
+    "daniles.overrites"
+  ]
+}
+```
 
 ## License
 
