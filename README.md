@@ -1,6 +1,4 @@
-# eslint-config-daniels
-a personal eslint config
-# eslint-config-google [![Build Status](https://travis-ci.org/google/eslint-config-google.svg?branch=master)](https://travis-ci.org/google/eslint-config-google)
+# eslint-config-daniels [![Build Status](https://travis-ci.org/google/eslint-config-google.svg?branch=master)](https://travis-ci.org/google/eslint-config-google)
 
 ## Installation
 
