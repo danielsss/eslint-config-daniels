@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-daniels",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "a personal eslint config",
   "main": "lib/index.js",
   "scripts": {
